@@ -1,0 +1,13 @@
+name: validate commits
+
+on: [pull_request]
+
+jobs:
+  validate-commits:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out directory
+        uses: actions/checkout@v1
+
+      - name: Commitsar check
+        uses: aevea/commitsar@v0.20.2

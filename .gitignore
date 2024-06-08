@@ -1,0 +1,4 @@
+*.blend
+*.blend1
+*commits.md
+node_modules

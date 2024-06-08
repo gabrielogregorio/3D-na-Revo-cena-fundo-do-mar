@@ -1,10 +1,8 @@
 # 3D-na-Revo-cena-fundo-do-mar
-![Render v3](./untitle2d.png)
 
-Em desenvolvimento ainda... não ta pronto
+![Render](./gabrielogregorio_GabrielGregorio_2.png)
 
-Cena feito no blender 4.1
+Minha cena feita no desafio da REVO, **foram fornecidos os assets** e o desafio era **fazer uma cena**. Você pode ver mais nas [lives da revo](https://www.youtube.com/watch?v=eQks9ukJF7U)
 
-ASSETS FORAM FORNECIDOS NO DESAFIO, O DESAFIO É APENAS MONTAR A CENA
+A Cena foi feita no Blender 4.1
 
-https://www.youtube.com/watch?v=eQks9ukJF7U
